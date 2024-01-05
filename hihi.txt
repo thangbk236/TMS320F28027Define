@@ -11,3 +11,4 @@ toi cung ten la thang
 aloalo
 day la master
 test server
+day la sub
