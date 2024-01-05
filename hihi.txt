@@ -12,3 +12,4 @@ aloalo
 day la master
 test server
 day la sub
+lai la sub
